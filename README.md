@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/bring-the-humans-03/AARenor/bring_the_humans_ad3/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![reward](https://make.fun/badge/bring-the-humans-03/AARenor/bring_the_humans_ad3/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
+Posted ad: https://www.tiktok.com/@arlearonreidma930/video/7710946031596358934
+
 A 20.0 s vertical ad for make.fun, cut from real play of **The Black Register Job**: the
 top-down stealth heist game an AI agent built in one session for make.fun's heist bounty,
 ranked 6th of 4,156 entries after round 1 of 4. The ad was decided, captured, captioned and
