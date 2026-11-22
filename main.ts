@@ -12,8 +12,8 @@
 //
 // VIDEO.json keeps the placeholder address until the ad has been posted, because an address that names no video is
 // worse than none: the house refuses it as it stands (valid 0). Replace it with the video's address before submitting.
-// This entry hands in the posted ad at https://www.tiktok.com/@arlearonreidma930/video/7710962123098098966,
-// posted from the operator's phone and resolved from the short link to that address.
+// Posted: https://www.tiktok.com/@arlearon/video/7711042453893287190
+// This entry hands in that ad, posted from the operator's phone and resolved from the short link.
 //
 // The two runs of this program in the grader write the same bytes: it only ever copies the repository's own
 // VIDEO.json, reads nothing on the network, and reads no clock.
