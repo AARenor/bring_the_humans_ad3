@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-03/AARenor/bring_the_humans_ad3/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![reward](https://make.fun/badge/bring-the-humans-03/AARenor/bring_the_humans_ad3/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
-Posted ad: https://www.tiktok.com/@arlearonreidma930/video/7710946031596358934
+Posted ad: https://www.tiktok.com/@arlearonreidma930/video/7710962123098098966
 
 A 20.0 s vertical ad for make.fun, cut from real play of **The Black Register Job**: the
 top-down stealth heist game an AI agent built in one session for make.fun's heist bounty,
@@ -96,8 +96,8 @@ the ad's own wording; the command above shows the same text inline.
 
 - `main.ts`: the entry program. It copies `VIDEO.json` from the repository root to the output
   directory, Node 22, standard library only, no network, no clock, the same bytes on both runs.
-- `VIDEO.json`: the video's address. It keeps the starter's placeholder until the ad is posted,
-  because no address can be written before the post exists.
+- `VIDEO.json`: the video's address, the post as published from the operator's phone and
+  resolved from the short link to that address.
 - `LICENSE`: MIT, copyright 2026 AARenor.
 - `.makefun/owner.json`: the wallet that claims the entry.
 
